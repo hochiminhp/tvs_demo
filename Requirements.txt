@@ -1,2 +1,2 @@
-Forward Mode : Maximum Speed : 10
+Forward Mode : Maximum Speed : 15
 Reverse Mode : Maximum Speed : 5
